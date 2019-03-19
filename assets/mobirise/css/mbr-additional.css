@@ -1788,17 +1788,6 @@ body {
 .cid-rlb3KHtEHr {
   background-image: url("../../../assets/images/mbr-1920x1106.jpg");
 }
-.cid-rlbBhbBczd {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #cc2952;
-}
-.cid-rlbBhbBczd .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rlbBhbBczd H2 {
-  color: #ffffff;
-}
 .cid-rlboLnH89b {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1836,4 +1825,15 @@ body {
 }
 .cid-rlbpRqHW4u .card-title {
   color: #0d5aaf;
+}
+.cid-rlbBhbBczd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cc2952;
+}
+.cid-rlbBhbBczd .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rlbBhbBczd H2 {
+  color: #ffffff;
 }
